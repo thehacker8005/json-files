@@ -1,10 +1,9 @@
 {
   "name": "BMW M4",
   "description": "A highly detailed 3D model of a BMW M4 featuring signature red-accented headlights (\"Red Eyes\"). Fully rendered in real-time 3D, viewable and rotatable directly on OpenSea.",
-  "image": "ipfs://REPLACE_WITH_PREVIEW_IMAGE_CID",
-  "image_url": "ipfs://REPLACE_WITH_PREVIEW_IMAGE_CID",
+  "image": "https://raw.githubusercontent.com/thehacker8005/json-files/main/BMW%20M4.png",
+  "image_url": "https://raw.githubusercontent.com/thehacker8005/json-files/main/BMW%20M4.png",
   "animation_url": "https://raw.githubusercontent.com/thehacker8005/Modelos-3d/main/bmw_m4_red_eyes.glb",
-  "external_url": "https://your-project-website.com",
   "background_color": "000000",
   "attributes": [
     {
